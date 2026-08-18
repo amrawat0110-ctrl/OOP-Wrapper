@@ -48,7 +48,7 @@ https://www.python.org/downloads/
 Download the project file:
 
 ```
-python project 5.py
+OOP-wrapper.py
 ```
 
 ### Step 3
@@ -61,7 +61,7 @@ Navigate to the project folder.
 Run the program:
 
 ```bash
-python "python project 5.py"
+python "OOP-wrapper.py"
 ```
 
 ---
@@ -88,7 +88,7 @@ Enter the required information and follow the on-screen instructions.
 ```
 Employee-Management-System/
 │
-├── python project 5.py
+├──OOP-wrapper.py
 └── README.md
 ```
 
